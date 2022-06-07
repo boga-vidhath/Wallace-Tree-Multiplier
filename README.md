@@ -1,5 +1,5 @@
 # Wallace-Tree-Multiplier
-##5x5 Bits Verilog implementation of the Wallace Tree Multiplier   
+## 5x5 Bits Verilog implementation of the Wallace Tree Multiplier   
 
 Verilog code project of a modular 5bitx5bit Wallace Tree multiplier built using Full and Half Adders.  
 
